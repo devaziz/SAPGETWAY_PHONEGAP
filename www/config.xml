@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>PhoneGap Build Application</name>
+
+<description>
+SAP Getway & Phonegap Example App		
+</description>
+
+<author href="http://mbis.com.tr" email="azizakal@gmail.com">
+Aziz AKAL
+</author>
+
+</widget>
